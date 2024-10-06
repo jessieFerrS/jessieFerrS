@@ -7,7 +7,10 @@ Venho me firmando mais em desenvolvimento full-stack, com um foco considerável 
 - 🔭Atualmente estou trabalhando para criar um excelente perfil no GitHub.
 - 🌱Atualmente estou em busca de uma oportunidade profissional para aprimorar minhas habilidades e desenvolver novas.
 - 📒Estou sempre aprendendo algo.
-- 😄Pronomes: Ela/Dela. 
+- 😄Pronomes: Ela/Dela.
+
+### 👀**Visitantes:**
+![Visitantes](https://komarev.com/ghpvc/?username=jessieFerrS&color=blueviolet)
 
 ## 🛠️**Habilidades:**
 * **Front-end:**
@@ -20,7 +23,7 @@ Venho me firmando mais em desenvolvimento full-stack, com um foco considerável 
 
 * **Mobile:**
 
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">![Mobile](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio)</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">![Mobile](https://skillicons.dev/icons?i=flutter,dart,kotlin)</font></font>
 
 * **Banco de dados:**
   
@@ -30,6 +33,9 @@ Venho me firmando mais em desenvolvimento full-stack, com um foco considerável 
 * **Outras:**
 
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">![Back-end](https://skillicons.dev/icons?i=figma,git,github)
+
+## 🧩**Ambientes de Desenvolvimento**
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">![Ambientes](https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio)</font></font>
 
 ## 📚**Outros Conhecimentos:**
 
@@ -45,6 +51,8 @@ Venho me firmando mais em desenvolvimento full-stack, com um foco considerável 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jessieFerrS&theme=jolly)](https://git.io/streak-stats)
 ![Jessie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessieFerrS&theme=synthwave&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessieFerrS&theme=jolly&hide_progress=true)
+
 
 ## 🏆**GitHub Thophies:**
 
@@ -52,4 +60,9 @@ Venho me firmando mais em desenvolvimento full-stack, com um foco considerável 
 
 ## 📊**GitHub Metrics:**
 ![Metrics](https://metrics.lecoq.io/jessieFerrS?template=classic&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo)
+
+
+
+
+
 
