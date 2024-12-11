@@ -4,9 +4,9 @@
 Desenvolvedora apaixonada por criar soluções inovadoras, sou estudante de Ciência da Computação no UNIVEM e busco constantemente aprimorar meus conhecimentos em Inteligência Artificial e Aprendizado de Máquina. Atualmente, estou explorando bibliotecas como Numpy e Pandas e Python, linguagem de programação mais utilizada em IA. Na área de desenvolvimento de software tenho explorado diversas áreas da programação, buscando me tornar uma profissional versátil, com um perfil mais abrangente e adaptável. 
 
 Venho me firmando mais em desenvolvimento full-stack, com um foco considerável em web e mobile.
-- 🔭Atualmente estou trabalhando para criar um excelente perfil no GitHub.
+- 🔭Atualmente estou trabalhando para me desenvolver como uma profissional extraordinária e para criar um excelente perfil no GitHub.
 - 🌱Atualmente estou em busca de uma oportunidade profissional para aprimorar minhas habilidades e desenvolver novas.
-- 📒Estou sempre aprendendo algo.
+- 📒Estou sempre aprendendo algo, pois como disse Isaac Newton: "O que sabemos é uma gota, o que ignoramos é um oceano".
 - 😄Pronomes: Ela/Dela.
 
 ### 👀**Visitantes:**
@@ -48,8 +48,6 @@ Venho me firmando mais em desenvolvimento full-stack, com um foco considerável 
 
 
 ## 📈**GitHub Stats:**
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jessieFerrS&theme=jolly)](https://git.io/streak-stats)
 ![Jessie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessieFerrS&theme=synthwave&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessieFerrS&theme=jolly&hide_progress=true)
 
