@@ -1,16 +1,18 @@
-# 🖥️ Conheça a ✨Jéssica!✨👋
-![I am GitHub Readme Generator's creator](https://github.com/jessieFerrS/jessieFerrS/blob/main/assets/github-header-image-2.png)
+# 🖥️✨Conheça a Jéssica!👋✨
+![I am GitHub Readme Generator's creator](https://github.com/jessieFerrS/jessieFerrS/blob/main/assets/github-header-image.png)
 
-Desenvolvedora apaixonada por criar soluções inovadoras, sou estudante de Ciência da Computação no UNIVEM e busco constantemente aprimorar meus conhecimentos em Inteligência Artificial e Aprendizado de Máquina. Atualmente, estou explorando bibliotecas como Numpy e Pandas e Python, linguagem de programação mais utilizada em IA. Na área de desenvolvimento de software tenho explorado diversas áreas da programação, buscando me tornar uma profissional versátil, com um perfil mais abrangente e adaptável. 
+Estudante de Ciência da Computação no UNIVEM, com grande interesse em Inteligência Artificial, sou apaixonada por explorar as fronteiras da tecnologia e desenvolver soluções inovadoras.
 
-Venho me firmando mais em desenvolvimento full-stack, com um foco considerável em web e mobile.
-- 🔭Atualmente estou trabalhando para me desenvolver como uma profissional extraordinária e para criar um excelente perfil no GitHub.
+Acredito que a interação entre a Inteligência Artificial, a engenharia de software e o conhecimento do négocio são fundamentais para criar um produto e/ou serviço inovador, inteligente e que atinja os objetivos dos usuários. Por isso, me dedico a construir uma base de conhecimento que abrange desde o desenvolvimento frontend e backend até a área de dados e IA.
+
+Sou uma pessoa proativa e com grande sede por conhecimento, por esse motivo estou sempre em busca de aprimorar minhas habilidades técnicas, seja por meio de bootcamps, cursos online ou projetos pessoais paralelos a universidade. Meu objetivo é contribuir para a construção de ferramentas que tornem o futuro mais dinâmico e inovador, por isso desejo trabalhar em uma empresa que valorize a inovação e o seu impacto social.
+
+- 🔭Atualmente estou trabalhando para criar um excelente perfil no GitHub.
 - 🌱Atualmente estou em busca de uma oportunidade profissional para aprimorar minhas habilidades e desenvolver novas.
-- 📒Estou sempre aprendendo algo, pois como disse Isaac Newton: "O que sabemos é uma gota, o que ignoramos é um oceano".
-- 😄Pronomes: Ela/Dela.
-
-### 👀**Visitantes:**
-![Visitantes](https://komarev.com/ghpvc/?username=jessieFerrS&color=blueviolet)
+- 📝Estou sempre aprendendo algo.
+- 🏗️Meu objetivo é me desenvolver cada vez mais na área da tecnologia e me tornar uma engenheira de IA.
+- 👩🏽Pronomes: Ela/Dela
+  
 
 ## 🛠️**Habilidades:**
 * **Front-end:**
@@ -23,7 +25,7 @@ Venho me firmando mais em desenvolvimento full-stack, com um foco considerável 
 
 * **Mobile:**
 
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">![Mobile](https://skillicons.dev/icons?i=flutter,dart,kotlin)</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">![Mobile](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio)</font></font>
 
 * **Banco de dados:**
   
@@ -33,9 +35,6 @@ Venho me firmando mais em desenvolvimento full-stack, com um foco considerável 
 * **Outras:**
 
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">![Back-end](https://skillicons.dev/icons?i=figma,git,github)
-
-## 🧩**Ambientes de Desenvolvimento**
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">![Ambientes](https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio)</font></font>
 
 ## 📚**Outros Conhecimentos:**
 
@@ -48,17 +47,11 @@ Venho me firmando mais em desenvolvimento full-stack, com um foco considerável 
 
 
 ## 📈**GitHub Stats:**
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jessieFerrS&theme=jolly)](https://git.io/streak-stats)
 ![Jessie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessieFerrS&theme=synthwave&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessieFerrS&theme=jolly&hide_progress=true)
-
 
 ## 🏆**GitHub Thophies:**
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=jessieFerrS&theme=discord)
-
-
-
-
-
-
-
