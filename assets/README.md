@@ -1,14 +1,18 @@
 # 🖥️ Conheça a Jéssica!👋
-![I am GitHub Readme Generator's creator](https://github.com/jessieFerrS/jessieFerrS/blob/main/assets/github-header-image-2.png)
+![I am GitHub Readme Generator's creator](https://github.com/jessieFerrS/jessieFerrS/blob/main/assets/github-header-image.png)
 
-Desenvolvedora apaixonada por criar soluções inovadoras, sou estudante de Ciência da Computação no UNIVEM e busco constantemente aprimorar meus conhecimentos em Inteligência Artificial e Aprendizado de Máquina. Atualmente, estou explorando bibliotecas como Numpy e Pandas e Python, linguagem de programação mais utilizada em IA. Na área de desenvolvimento de software tenho explorado diversas áreas da programação, buscando me tornar uma profissional versátil, com um perfil mais abrangente e adaptável. 
+Estudante de Ciência da Computação no UNIVEM, com grande interesse em Inteligência Artificial, sou apaixonada por explorar as fronteiras da tecnologia e desenvolver soluções inovadoras.
 
-Venho me firmando mais em desenvolvimento full-stack, com um foco considerável em web e mobile.
+Acredito que a interação entre a Inteligência Artificial, a engenharia de software e o conhecimento do négocio são fundamentais para criar um produto e/ou serviço inovador, inteligente e que atinja os objetivos dos usuários. Por isso, me dedico a construir uma base de conhecimento que abrange desde o desenvolvimento frontend e backend até a área de dados e IA.
+
+Sou uma pessoa proativa e com grande sede por conhecimento, por esse motivo estou sempre em busca de aprimorar minhas habilidades técnicas, seja por meio de bootcamps, cursos online ou projetos pessoais paralelos a universidade. Meu objetivo é contribuir para a construção de ferramentas que tornem o futuro mais dinâmico e inovador, por isso desejo trabalhar em uma empresa que valorize a inovação e o seu impacto social.
+
 - 🔭Atualmente estou trabalhando para criar um excelente perfil no GitHub.
--  Atualmente estou em busca de uma oportunidade profissional para aprimorar minhas habilidades e desenvolver novas.
--  Estou sempre aprendendo algo.
--  Como entrar em contato comigo:
--  Pronomes: Ela/Dela 
+- 🌱Atualmente estou em busca de uma oportunidade profissional para aprimorar minhas habilidades e desenvolver novas.
+- 📝Estou sempre aprendendo algo.
+- 🏗️Meu objetivo é me desenvolver cada vez mais na área da tecnologia e me tornar uma engenheira de IA.
+- 👩🏽Pronomes: Ela/Dela
+  
 
 ## 🛠️**Habilidades:**
 * **Front-end:**
